@@ -16,7 +16,7 @@ export LC_ALL=C.UTF-8
 export LANG=C.UTF-8
 
 # clone the Jueru RL lib and install.
-git clone https://github.com/OuAzusaKou/RL_lib
+git clone https://github.com/lmd123123/Rl_lib
 
 python setup.py install
 
