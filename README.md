@@ -24,7 +24,7 @@ python setup.py install
 pip install -r requirements.txt
 
 # Finally, clone the project
-git clone https://github.com/OuAzusaKou/imagination_mechanism
+git clone https://github.com/lmd123123/MI_code_imagination_mechanism
 ```
 
 ## Usage:
